@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_todo_app/model/task_model.dart';
 
 import '../controller/tasks_controller.dart';
+import '../widgets/input_text.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -52,18 +53,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                   SizedBox(
                     height: 50,
-                    child: TextField(
-                      controller: taskController,
-                      decoration: InputDecoration(
-                        hintText: 'Add Task...',
-                        filled: true,
-                        fillColor: Colors.grey[200],
-                        border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(10),
-                          borderSide: BorderSide.none
-                        )
-                      ),
-                    ),
+                    child: inputText(taskController)
                   ),
                 const  SizedBox(
                     height: 10,
