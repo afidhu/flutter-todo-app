@@ -11,6 +11,36 @@
 | 31786/T.2023 | Ester Msabila       |
 | 31310/T.2023 | Nathan Mbilinyi     | 
 
+---
+
+##  How to Run the Application
+
+Follow the steps below to run the app locally:
+
+### 1️Clone the repository
+
+```bash
+git clone https://github.com/afidhu/flutter-todo-app.git
+```
+
+### 2️Navigate to the project directory
+
+```bash
+cd flutter-todo-app
+```
+
+### 3️ Install dependencies
+
+```bash
+flutter pub get
+```
+
+### 4️ Run the application
+
+```bash
+flutter run
+```
+
 
 ##  Screenshots
 
