@@ -1,4 +1,4 @@
-# flutter_todo_app
+# flutter todo app
 
 ## Group Members  
 
