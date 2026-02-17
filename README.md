@@ -1,5 +1,17 @@
 # flutter_todo_app
 
+## Group Members  
+
+| Student Reg. | Student Name        |
+|--------------|---------------------|
+| 30772/T.2023 | Afidhu Matata       |
+| 31137/T.2023 | Yusuph Yohana       |
+| 30689/T.2023 | Denisi Sambila      | 
+| 30565/T.2023 | Graciana Tarimo     |
+| 31786/T.2023 | Ester Msabila       |
+| 31310/T.2023 | Nathan Mbilinyi     | 
+
+
 A new Flutter project.
 
 ## Getting Started
