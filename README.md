@@ -12,6 +12,32 @@
 | 31310/T.2023 | Nathan Mbilinyi     | 
 
 
+##  Screenshots
+
+###  Main Screen – Task List
+
+![Main Screen](https://github.com/afidhu/flutter-todo-app/blob/main/home%20screen.png)
+
+---
+
+###  Adding a Task
+
+![Add Task](https://github.com/afidhu/flutter-todo-app/blob/main/add.png)
+
+---
+
+###  Completing a Task
+
+![Complete Task](https://github.com/afidhu/flutter-todo-app/blob/main/completd.png)
+
+---
+
+###  Deleting a Task
+
+![Delete Task](https://github.com/afidhu/flutter-todo-app/blob/main/delete.png)
+
+---
+
 A new Flutter project.
 
 ## Getting Started
